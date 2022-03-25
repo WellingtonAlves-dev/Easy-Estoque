@@ -6,6 +6,6 @@ que eu criei para aprimorar minhas habilidades em C#
 # Pagina inicial
 ![plot](./Images/home.jpg)
 # Listagem de produtos
-![plot](./Images/home.jpg)
+![plot](./Images/produtos.jpg)
 # Adicionar produto
 ![plot](./Images/addproduto.jpg)
